@@ -30,5 +30,4 @@ The system manages **students, courses, enrollments, attendance, and grades** wi
 
 ---
 
-## 🧱 Project Architecture
 
